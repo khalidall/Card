@@ -1,0 +1,39 @@
+let data = [
+    {
+        key:"101",
+        name:"prod1",
+        emoji:"😂",
+        price:1200
+    },
+    {
+        key:"102",
+        name:"prod2",
+        emoji:"🎁",
+        price:1110
+    },
+    {
+        key:"103",
+        name:"prod3",
+        emoji:"🎂",
+        price:1450
+    },
+    {
+        key:"104",
+        name:"prod4",
+        emoji:"❤",
+        price:1050
+    },
+    {
+        key:"105",
+        name:"prod5",
+        emoji:"🌹",
+        price:1500
+    },
+    {
+        key:"106",
+        name:"prod6",
+        emoji:"😎",
+        price:1400
+    }
+]
+export default data;
